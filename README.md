@@ -1,2 +1,2 @@
 # project_integrador_python
-Consistirá en un video  juego de texto de recorrer laberintos
+¡ Bievenido a tu video juego de texto! escape laberíntico! sumergete en una experiencia de juego en 2D que te dejará con ganas de más y más
